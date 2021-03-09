@@ -29,7 +29,7 @@ YOUTUBE LINK
 
 # Design Idea
 
-![Youtube to mp3 Idea](https://imgur.com/a/NW6fOvD)
+![Youtube to mp3 Idea](https://imgur.com/a/0jvAK01)
 
 # Development
 
