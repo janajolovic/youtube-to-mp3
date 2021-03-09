@@ -1,4 +1,4 @@
-# What is Random Password Generator?
+# What is Youtube to mp3?
 
 Program that can convert and download video from YouTube in mp3 format. You can choose the folder where would you like to save video/audio. You just need the URL from YouTube video.
 
