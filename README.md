@@ -6,13 +6,13 @@ Program that can convert and download video from YouTube in mp3 format. You can 
 ## Table of Contents
 
 - [What is Random Password Generator?](#what-is-random-password-generator)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
 - [Usage](#usage)
-  - [Demo](#demo)
+- [Demo](#demo)
 - [Design Idea](#design-idea)
 - [Development](#development)
-  - [Technologies](#technologies)
-  - [Tests](#tests)
+- [Technologies](#technologies)
+- [Tests](#tests)
 
 
 # Usage
